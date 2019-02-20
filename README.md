@@ -9,4 +9,6 @@
     * Tell me a joke
 Live Demo:[here](https://interestesapp.firebaseapp.com)
 
-![Alt text](public/img/logo.png?raw=true "Title")
+![Alt text](public/img/home.png?raw=true "Home")
+![Alt text](public/img/chat.png?raw=true "Chat")
+![Alt text](public/img/account.png?raw=true "Account")
